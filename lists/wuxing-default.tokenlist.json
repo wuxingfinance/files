@@ -1,6 +1,6 @@
 {
   "name": "Wuxing Default",
-  "timestamp": "2023-07-07T02:19:29.377Z",
+  "timestamp": "2023-07-09T00:25:49.559Z",
   "version": {
     "major": 5,
     "minor": 9,
@@ -100,6 +100,14 @@
       "decimals": 18,
       "chainId": 31337,
       "logoURI": "https://wuxingfinance.github.io/files/tokens/HUO.png"
+    },
+    {
+      "name": "Jin Token",
+      "address": "0xA82ED5224ba72f2f776e09B11DC99E30Ee65Da8d",
+      "symbol": "JIN",
+      "decimals": 9,
+      "chainId": 31337,
+      "logoURI": "https://wuxingfinance.github.io/files/tokens/JIN.png"
     },
     {
       "name": "Nucleon Governance Token",
