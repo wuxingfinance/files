@@ -1,161 +1,41 @@
 {
   "name": "Wuxing Default",
-  "timestamp": "2023-07-09T00:25:49.559Z",
+  "timestamp": "2023-07-11T11:48:58.388Z",
   "version": {
     "major": 5,
     "minor": 9,
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://i.postimg.cc/HkGqW7qY/fireswap-icon.png",
+  "logoURI": "https://wuxingfinance.github.io/files/tokens/JIN.png",
   "keywords": [
     "wuxing",
     "default"
   ],
   "tokens": [
     {
-      "name": "Goledo Token",
-      "address": "0x582d27F36A9Bb5345c381E9F51635e1097fb37A9",
-      "symbol": "GOL",
-      "decimals": 18,
-      "chainId": 71,
-      "logoURI": "https://wuxingfinance.github.io/files/tokens/GOL.png"
-    },
-    {
       "name": "Huo Token",
-      "address": "0x092a7cD8da4a29407eB54183A0A5f4B309E9b842",
+      "address": "0x6Fa588726b9613678e48b34c7480Bf1eD8189dCB",
       "symbol": "HUO",
       "decimals": 18,
-      "chainId": 71,
+      "chainId": 1030,
       "logoURI": "https://wuxingfinance.github.io/files/tokens/HUO.png"
     },
     {
       "name": "Jin Token",
-      "address": "0xE046bA46a4D9482f59Fe799D0504dF883Ea2a7f8",
+      "address": "0x94317A12dDb34e39a460Cbc9bFEe832e48065039",
       "symbol": "JIN",
       "decimals": 9,
-      "chainId": 71,
+      "chainId": 1030,
       "logoURI": "https://wuxingfinance.github.io/files/tokens/JIN.png"
     },
     {
-      "name": "Nucleon Governance Token",
-      "address": "0xAAcaFC47A8A865782cC811AEe3D24Fa68F5b86f9",
-      "symbol": "NUT",
-      "decimals": 18,
-      "chainId": 71,
-      "logoURI": "https://wuxingfinance.github.io/files/tokens/NUT.png"
-    },
-    {
-      "name": "Swappi Token",
-      "address": "0x5203c66973a411aA901AC1e79E3548d5a128F16A",
-      "symbol": "PPI",
-      "decimals": 18,
-      "chainId": 71,
-      "logoURI": "https://wuxingfinance.github.io/files/tokens/PPI.png"
-    },
-    {
-      "name": "USD Coin",
-      "address": "0xEF982a55A9E769e7f98012903C660B5C03A7Df16",
-      "symbol": "USDC",
-      "decimals": 18,
-      "chainId": 71,
-      "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png"
-    },
-    {
-      "name": "Tether USD",
-      "address": "0x2ed58a16d62b58681f68e89D0987E14a7fFAaF98",
-      "symbol": "USDT",
-      "decimals": 18,
-      "chainId": 71,
-      "logoURI": "https://wuxingfinance.github.io/files/tokens/USDT.png"
-    },
-    {
       "name": "Wrapped Conflux",
-      "address": "0x18792283b161607dfc83A51acd97933E9BbF43b2",
+      "address": "0x14b2d3bc65e74dae1030eafd8ac30c533c976a9b",
       "symbol": "WCFX",
       "decimals": 18,
-      "chainId": 71,
+      "chainId": 1030,
       "logoURI": "https://raw.githubusercontent.com/Conflux-Chain/design-resource-lab/master/1.%20CFX%20TOKEN%20SYMBOL/TokenSymbol.png"
-    },
-    {
-      "name": "Nucleon xCFX",
-      "address": "0x997D01Ee4932eb8EDd3c2247B3B54b9bcEc877c2",
-      "symbol": "xCFX",
-      "decimals": 18,
-      "chainId": 71,
-      "logoURI": "https://wuxingfinance.github.io/files/tokens/xCFX.png"
-    },
-    {
-      "name": "Goledo Token",
-      "address": "0xC6bA8C3233eCF65B761049ef63466945c362EdD2",
-      "symbol": "GOL",
-      "decimals": 18,
-      "chainId": 31337,
-      "logoURI": "https://wuxingfinance.github.io/files/tokens/GOL.png"
-    },
-    {
-      "name": "Huo Token",
-      "address": "0x8464135c8F25Da09e49BC8782676a84730C318bC",
-      "symbol": "HUO",
-      "decimals": 18,
-      "chainId": 31337,
-      "logoURI": "https://wuxingfinance.github.io/files/tokens/HUO.png"
-    },
-    {
-      "name": "Jin Token",
-      "address": "0xA82ED5224ba72f2f776e09B11DC99E30Ee65Da8d",
-      "symbol": "JIN",
-      "decimals": 9,
-      "chainId": 31337,
-      "logoURI": "https://wuxingfinance.github.io/files/tokens/JIN.png"
-    },
-    {
-      "name": "Nucleon Governance Token",
-      "address": "0x59F2f1fCfE2474fD5F0b9BA1E73ca90b143Eb8d0",
-      "symbol": "NUT",
-      "decimals": 18,
-      "chainId": 31337,
-      "logoURI": "https://wuxingfinance.github.io/files/tokens/NUT.png"
-    },
-    {
-      "name": "Swappi Token",
-      "address": "0x712516e61C8B383dF4A63CFe83d7701Bce54B03e",
-      "symbol": "PPI",
-      "decimals": 18,
-      "chainId": 31337,
-      "logoURI": "https://wuxingfinance.github.io/files/tokens/PPI.png"
-    },
-    {
-      "name": "USD Coin",
-      "address": "0x948B3c65b89DF0B4894ABE91E6D02FE579834F8F",
-      "symbol": "USDC",
-      "decimals": 18,
-      "chainId": 31337,
-      "logoURI": "https://assets.coingecko.com/coins/images/6319/small/USD_Coin_icon.png"
-    },
-    {
-      "name": "Tether USD",
-      "address": "0xbCF26943C0197d2eE0E5D05c716Be60cc2761508",
-      "symbol": "USDT",
-      "decimals": 18,
-      "chainId": 31337,
-      "logoURI": "https://wuxingfinance.github.io/files/tokens/USDT.png"
-    },
-    {
-      "name": "Wrapped Conflux",
-      "address": "0x71C95911E9a5D330f4D621842EC243EE1343292e",
-      "symbol": "WCFX",
-      "decimals": 18,
-      "chainId": 31337,
-      "logoURI": "https://github.com/Conflux-Chain/design-resource-lab/blob/master/1.%20CFX%20TOKEN%20SYMBOL/TokenSymbol.png"
-    },
-    {
-      "name": "Nucleon xCFX",
-      "address": "0x1275D096B9DBf2347bD2a131Fb6BDaB0B4882487",
-      "symbol": "xCFX",
-      "decimals": 18,
-      "chainId": 31337,
-      "logoURI": "https://wuxingfinance.github.io/files/tokens/xCFX.png"
     }
   ]
 }
